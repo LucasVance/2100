@@ -6,27 +6,7 @@
 
 Project 2100 utilizes a modular content strategy we call **"The Accordion Model."** The central challenge of this project is addressing a highly diverse audience with varying levels of economic literacy and ideological baggage. To solve this, our content is designed to "unzip" or expand based on the user's need for depth. We do not dumb down the argument; we layer it.
 
-## The User Matrix (Depth Levels)
-
-Every module in the project must be written to satisfy three distinct levels of engagement simultaneously.
-
-### Level 1: The Headline (The "Zoomer" / The Tired Worker)
-* **Target:** Short attention spans, high skepticism of authority and likely capitalism, morally driven.
-* **Goal:** Validate their lived experience immediately.
-* **Format:** Intuitive, effective, moral arguments. Fast reads.
-* **Key Tactic:** If it feels true based on their daily struggle, they will read more.
-
-### Level 2: The Logic (The Liberal / Conservative Uncle)
-* **Target:** Educated but orthodox thinkers. They believe in the "system" but see the cracks.
-* **Goal:** Provide historical context and basic economic theory to explain *why* the system is broken.
-* **Format:** Long-form editorial style (The Atlantic / Substack).
-* **Key Tactic:** "The History Lesson." Show that things were different in the past (e.g., the 19th-century labor movement) to prove they can be different in the future.
-
-### Level 3: The Steel-Man
-* **Target:** Academics, neoliberals, capitalist economists, and hostile skeptics.
-* **Goal:** Dismantle counter-arguments with overwhelming empirical evidence.
-* **Format:** Rigorous white-paper style. Heavy citations.
-* **Key Tactic:** **Deep Research.** This is where we deploy the heavy artillery to make the argument incontrovertible. This is with Gemini's Deep Research capability, and Level 3 arguments are built around this Deep Research modality.
+This will not be a short, one-shot analysis, but the future, deeper analyses will use Deep Research (Gemini mode) multiple times on distinct subtopics to provide an incredibly detailed, yet effective, incontrovertible argument. My idea for this project is that there will be selective levels of depth: since I expect a diverse reader audience, there will be people who want to read something short, and others who require large amounts of evidence for this controversial and radical viewpoint. To address this, I'm thinking that a good way would be to have expandable levels of depth: for certain points, you could expand an argument if you're not convinced. For example, those in the younger generation don't need much convincing of the problems of capitalism, and too much time spent there would waste valuable time and attention that should be spent elsewhere. On the other hand, older generations are extremely supportive of capitalism in general, and are terrified of being anti-capitalist because of the history. Another example is that a neoliberal economist is going to need a bunch of material on how this totally free market would work, and a wage slave is gonna need pretty much nothing. The final level should just reference books on this topic, as that's way beyond what I can hope to explain and is outside the scope of this project. Each argument that the main module makes should be an overview that someone can see and potentially accept, and then reference a Deep Researched topic if they need more data.
 
 ---
 
