@@ -19,16 +19,7 @@ This project aims to be an accessible, non-academic entry point for anyone quest
 
 ### 1. The Rhetorical Strategy ("The Trojan Horse")
 
-We avoid academic jargon that alienates working-class readers. We use populist, accessible language to explain radical economic concepts, such as:
-| Avoid (Academic/Jargon)             | Use Instead (Accessible)               | Why?                                                                                      |
-|-------------------------------------|----------------------------------------|-------------------------------------------------------------------------------------------|
-| Imperialism                         | The War Machine / Interventionism      | Focuses on the cost to the taxpayer and the loss of life, rather than abstract theory.    |
-| Bourgeoisie / Proletariat           | The Donor Class / Working People       | "Class warfare" terms can trigger defensive reactions; "Rigged system" builds solidarity. |
-| Capitalism (when praising commerce) | The Free Market / Innovation           | Distinguish the system of privilege (Capitalism) from voluntary exchange (Markets).       |
-| Abolish the State                   | End the Bureaucracy / Decentralization | Focus on efficiency and local control rather than chaos.                                  |
-| Communism                           | The Commons / Open Source / Abundance  | Use modern examples like Linux or Wikipedia to explain non-market collaboration.          |
-
-There are many other such exapmles. Be on the lookout for them.
+We avoid academic jargon that alienates working-class readers. We use populist, accessible language to explain radical economic concepts.
 
 ### 2. The Core Logic (The Synthesis)
 
@@ -54,7 +45,9 @@ We are reconciling two seemingly opposite views:
 
 ----------
 
-## Site Architecture & Content Outline
+## Content Outline
+
+please add a lot on top of these. these descriptions are barely even starting ideas.
 
 ### Part 1: Capitalism is flawed - "The Game is Rigged"
 There are many problems of Capitalism. For example, it results in many things being way too shitty and expensive because of monopolies. Our tax dollars are funneled into the hands of the owning class, while millions of Americans starve in the richest country in the history of the world. Our tax dollars also kill children in the middle east, as our industrial military complex secures corporate interests in other countries, ruining them and exploiting foreign citizens so they can exploit American citizens. Noam Chomsky's books are great for this, especially Understanding Power.
