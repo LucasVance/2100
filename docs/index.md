@@ -1,27 +1,24 @@
 # 2100
 
-> **Mission:** To dismantle the narrative that equates "Capitalism" with "Free Markets," and to demonstrate that the path to true liberty lies in dismantling state-enforced corporate privileges for a truly freed market.
-
 ---
 
-## Part 1: The Diagnosis – "The Game is Rigged"
+## The Game is Rigged
 
 Capitalism is not a synonym for "commerce." It is a specific system of state interference that funnels wealth upward. We are paying a "Parasite Tax" on every hour we work.
 
-??? quote "Yeah, but isn't this just how the world works?"
-    **The Objection:** "Hierarchy is natural. There have always been rich and poor people. You can't fight human nature."
+??? quote "Example objection"
+    **The Objection:**
 
-    **The Reality:** Humans are adaptable. If you put people in a system that rewards greed (Capitalism), they act greedy. If you put them in a system that rewards cooperation, they cooperate. The current hierarchy isn't "natural"; it is enforced by police, patents, and bailouts.
+    **The Reality:**
 
-### The War Machine
 Our tax dollars are funneled into the hands of the owning class, while millions of Americans starve. The military-industrial complex secures corporate interests abroad, not your freedom at home.
 
-??? note "Deep Dive: The Cost of Empire"
-    (Here is where you will eventually put the data on military spending, foreign intervention, and the 'blowback' effect.)
+??? note "Example deep research"
+    Deep research output here
 
 ---
 
-## Part 2: The Definition – "We Don't Have a Free Market"
+## Capitalism is not a free market
 
 "You wouldn't have the iPhone if not for capitalism!" 
 
@@ -43,13 +40,9 @@ Benjamin Tucker identified four major ways the State protects the rich from havi
 
 ---
 
-## Part 3: The False Choice – "Why We Don't Want a New Boss"
+## Comfort fears about socialism
 
-We don't have to do a Marxist-Leninist style violent revolution. Replacing a CEO with a Bureaucrat is not freedom.
-
-### State Socialism vs. Libertarian Socialism
-* **State Socialism:** The Government owns the factory.
-* **Libertarian Socialism:** The Workers own the factory.
+This section might be combined with "Capitalism is not a free market" as a footnote that assures readers that a Marxist-Leninist style violent revolution is not necessary and that State Socialism is not the goal
 
 ---
 
