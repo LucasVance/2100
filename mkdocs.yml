@@ -1,0 +1,19 @@
+site_name: 2100
+site_url: https://yourusername.github.io/2100/
+site_description: 2100
+
+theme:
+  name: material
+  palette: 
+    scheme: slate  # Dark mode by default (fits the "2100" vibe)
+    primary: teal
+    accent: cyan
+  features:
+    - navigation.expand # Keeps the sidebar useful if you add more pages later
+    - toc.integrate     # Puts the Table of Contents on the left, keeping the reading flow clean
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details   # <--- THIS IS THE MAGIC ACCORDION FEATURE
+  - pymdownx.superfences
+  - attr_list
