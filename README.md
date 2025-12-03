@@ -20,42 +20,13 @@ This project aims to be an accessible, non-academic entry point for anyone quest
 ### 1. The Rhetorical Strategy ("The Trojan Horse")
 
 We avoid academic jargon that alienates working-class readers. We use populist, accessible language to explain radical economic concepts.
-
-**Avoid (Academic/Jargon)**
-
-**Use Instead (Accessible)**
-
-**Why?**
-
-Imperialism
-
-**The War Machine / Interventionism**
-
-Focuses on the cost to the taxpayer and the loss of life, rather than abstract theory.
-
-Bourgeoisie / Proletariat
-
-**The Donor Class / Working People**
-
-"Class warfare" terms can trigger defensive reactions; "Rigged system" builds solidarity.
-
-Capitalism (when praising commerce)
-
-**The Free Market / Innovation**
-
-Distinguish the _system of privilege_ (Capitalism) from _voluntary exchange_ (Markets).
-
-Abolish the State
-
-**End the Bureaucracy / Decentralization**
-
-Focus on efficiency and local control rather than chaos.
-
-Communism
-
-**The Commons / Open Source / Abundance**
-
-Use modern examples like Linux or Wikipedia to explain non-market collaboration.
+| Avoid (Academic/Jargon)             | Use Instead (Accessible)               | Why?                                                                                      |
+|-------------------------------------|----------------------------------------|-------------------------------------------------------------------------------------------|
+| Imperialism                         | The War Machine / Interventionism      | Focuses on the cost to the taxpayer and the loss of life, rather than abstract theory.    |
+| Bourgeoisie / Proletariat           | The Donor Class / Working People       | "Class warfare" terms can trigger defensive reactions; "Rigged system" builds solidarity. |
+| Capitalism (when praising commerce) | The Free Market / Innovation           | Distinguish the system of privilege (Capitalism) from voluntary exchange (Markets).       |
+| Abolish the State                   | End the Bureaucracy / Decentralization | Focus on efficiency and local control rather than chaos.                                  |
+| Communism                           | The Commons / Open Source / Abundance  | Use modern examples like Linux or Wikipedia to explain non-market collaboration.          |
 
 ### 2. The Core Logic (The Synthesis)
 
@@ -79,7 +50,7 @@ Every major argument must include a **"Common Objections"** or **"Yeah, but..."*
 
 ----------
 
-## 🗺️ Site Architecture & Content Outline
+## Site Architecture & Content Outline
 
 ### Part 1: The Diagnosis – "The Game is Rigged"
 
@@ -156,7 +127,7 @@ Every major argument must include a **"Common Objections"** or **"Yeah, but..."*
 
 ----------
 
-## 🛠️ Contribution Roadmap
+## Contribution Roadmap
 
 ### MVP (Minimum Viable Product)
 
