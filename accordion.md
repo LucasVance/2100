@@ -10,23 +10,23 @@ Project 2100 utilizes a modular content strategy we call **"The Accordion Model.
 
 Every module in the project must be written to satisfy three distinct levels of engagement simultaneously.
 
-### Level 1: The Headline (The "Zoomer" / The Worker)
-* **Target:** Short attention spans, high skepticism of authority, morally driven.
+### Level 1: The Headline (The "Zoomer" / The Tired Worker)
+* **Target:** Short attention spans, high skepticism of authority and likely capitalism, morally driven.
 * **Goal:** Validate their lived experience immediately.
-* **Format:** Memetic, punchy, intuitive, moral arguments. Fast read (30 seconds).
-* **Key Tactic:** "The Vibe Check." If it feels true based on their daily struggle, they will read more.
+* **Format:** Intuitive, effective, moral arguments. Fast reads.
+* **Key Tactic:** If it feels true based on their daily struggle, they will read more.
 
-### Level 2: The Logic (The Liberal / The Conservative Uncle)
+### Level 2: The Logic (The Liberal / Conservative Uncle)
 * **Target:** Educated but orthodox thinkers. They believe in the "system" but see the cracks.
 * **Goal:** Provide historical context and basic economic theory to explain *why* the system is broken.
 * **Format:** Long-form editorial style (The Atlantic / Substack).
 * **Key Tactic:** "The History Lesson." Show that things were different in the past (e.g., the 19th-century labor movement) to prove they can be different in the future.
 
-### Level 3: The Steel-Man (The Economist / The Hostile Skeptic)
-* **Target:** Academics, neoliberals, and data-driven skeptics.
+### Level 3: The Steel-Man
+* **Target:** Academics, neoliberals, capitalist economists, and hostile skeptics.
 * **Goal:** Dismantle counter-arguments with overwhelming empirical evidence.
-* **Format:** Rigorous white-paper style. Heavy citations, regression analyses, data visualization.
-* **Key Tactic:** **Deep Research.** This is where we deploy the heavy artillery (charts, primary sources, economic modeling) to make the argument incontrovertible.
+* **Format:** Rigorous white-paper style. Heavy citations.
+* **Key Tactic:** **Deep Research.** This is where we deploy the heavy artillery to make the argument incontrovertible.
 
 ---
 
@@ -36,23 +36,23 @@ The project is divided into five core modules. Each module functions as an "Acco
 
 ### Module 1: The Diagnostics ("The Game is Rigged")
 * **Concept:** Validate suffering without triggering ideological defenses. Frame the economy as a "Rigged Casino."
-* **The Argument:** High costs are not natural; they are the result of "Parasite Taxes" (Rent, Interest, IP royalties) embedded in every product.
-* **Deep Research Target:** **The Parasite Scan.** Quantifying exactly how much of a product's price goes to passive privilege vs. actual labor.
+* **The Argument:** High costs are not natural; they are the result of Parasite Taxes embedded in every product.
+* **Deep Research Ideas:** **The Parasite Scan.** Quantifying exactly how much of a product's price goes to passive privilege vs. actual labor.
 
 ### Module 2: The Definition ("The State *Is* The Corporation")
 * **Concept:** The Great Inversion. Convince the Right that corporations are State agents; convince the Left that the State enables corporate power.
-* **The Argument:** The existence of a billionaire is proof of market failure (state interference). Real markets punish inefficiency; our system bails it out.
-* **Deep Research Target:** **The Subsidy Map & IP History.** Auditing the "self-made" myth and proving that patents historically stifle innovation (e.g., The Steam Engine, The German Chemical Industry).
+* **The Argument:** The existence of a billionaire is proof of market failure: there's no way Elon Musk is 2,500,000x as productive as the average American. However, his wealth is. Real markets punish inefficiency; our system bails it out.
+* **Deep Research Ideas:** **The Subsidy Map & IP History.** Definitively demonstrate that the State and Corporations are in bed. Auditing the "self-made" myth and proving that patents historically stifle innovation. Show all the instances of the government subsidizing billionaires and bailing out large corporations with taxpayer money.
 
 ### Module 3: The Mechanism ("The Tucker-Chomsky Bridge")
 * **Concept:** The synthesis of Market Competition and Post-Scarcity Communism.
 * **The Argument:** If you remove the 4 Monopolies (Patents, Tariffs, Land, Money), competition becomes "perfect," driving prices to the marginal cost of production (Zero).
-* **Deep Research Target:** **The Deflationary Spiral.** Economic modeling of a "Zero Marginal Cost Society." Distinguishing "bad deflation" (depression) from "good deflation" (abundance).
+* **Deep Research Ideas:** **The Deflationary Spiral.** Economic modeling of a "Zero Marginal Cost Society." Distinguishing "bad deflation" (depression) from "good deflation" (abundance).
 
 ### Module 4: The False Choice ("Bureaucracy vs. Democracy")
 * **Concept:** Pre-empting fears of "Chaos" (Anarchy) and "Gulags" (State Socialism).
 * **The Argument:** We are replacing hierarchy with networks. We don't want a new boss; we want no boss.
-* **Deep Research Target:** **The Commons Audit.** Empirical data (Elinor Ostrom) showing how communities manage resources better than both States and Markets (e.g., Lobster gangs, Open Source).
+* **Deep Research Ideass:** **The Commons Audit.** Empirical data showing how communities can sometimes manage resources better than both States and Markets. Rojava.
 
 ### Module 5: The Roadmap ("Dual Power")
 * **Concept:** Actionable hope. Building the new world in the shell of the old.
@@ -74,4 +74,4 @@ The project is divided into five core modules. Each module functions as an "Acco
 
 ### 3. The Deep Research Integration
 * **Rule:** Data is not decoration; it is ammunition.
-* **Implementation:** Level 3 content is not just a bibliography. It is active "Deep Research" that aggressively audits the current narrative. If we claim "Patents hurt innovation," we must provide the graph showing the stall in steam engine development during Watt's patent term.
+* **Implementation:** Level 3 content is not just a bibliography. It is active "Deep Research" that aggressively audits the current narrative. If we claim "Patents hurt innovation," we must definitively demonstrate that.
