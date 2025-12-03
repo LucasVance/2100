@@ -1,6 +1,6 @@
-# 2100: The Operating System for the Next Century
+# 2100
 
-> **Mission:** To dismantle the narrative that equates "Capitalism" with "Free Markets," and to demonstrate that the path to true liberty lies in dismantling state-enforced corporate privileges.
+> **Mission:** To dismantle the narrative that equates "Capitalism" with "Free Markets," and to demonstrate that the path to true liberty lies in dismantling state-enforced corporate privileges for a truly freed market.
 
 ---
 
