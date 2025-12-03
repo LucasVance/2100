@@ -56,7 +56,7 @@ We are reconciling two seemingly opposite views:
 
 ## Site Architecture & Content Outline
 
-### Part 1: Capitalism is flawed.
+### Part 1: Capitalism is flawed - "The Game is Rigged"
 There are many problems of Capitalism. For example, it results in many things being way too shitty and expensive because of monopolies. Our tax dollars are funneled into the hands of the owning class, while millions of Americans starve in the richest country in the history of the world. Our tax dollars also kill children in the middle east, as our industrial military complex secures corporate interests in other countries, ruining them and exploiting foreign citizens so they can exploit American citizens. Noam Chomsky's books are great for this, especially Understanding Power.
         
 
@@ -73,12 +73,11 @@ Basically  we don't have to do a Marxist-Leninist style violent revolution that 
 
 ### Part 4: The Solution – "The Ecosystem of Freedom"
 
-Lay out left-wing market anarchism basically
-    
+Lay out left-wing market anarchism basically and stuff like what benjamin tucker advocates. usury is illegitimate
 
 ### Part 5: The Roadmap – "How We Get There"
 
-still undecided on what this could be, but I think this is a good idea.
+agorism, dual power
         
 
 ----------
