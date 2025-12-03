@@ -63,22 +63,21 @@ There are many problems of Capitalism. For example, it results in many things be
 ### Part 2: The Definition – "We Don't Have a Free Market"
 
 But it doesn't have to be like this. "You wouldn't have the iPhone if not for capitalism!" Incorrect; Capitalism didn't give you the iPhone, the free market did. Capitalism gave you the overpriced, restricted, un-repairable version of the iPhone.
-Corporations are legal fictions created by the State. Real markets punish inefficiency; our system bails it out. Benjamin Tucker's four monopolies.
+Corporations are legal fictions created by the State. Real markets punish inefficiency; our system bails it out. Benjamin Tucker's four monopolies. State protects large corporations, there's socialism for the rich and free market for laborers.
         
 
 ### Part 3: The False Choice – "Why We Don't Want a New Boss"
 
-Basically  we don't have to do a Marxist-Leninist style violent revolution that so many people are afraid of. We don't have to move towards socialism, communism, again that people are so afraid of. These are authoritarian regimes and failed because they replaced CEO with bureaucrat. We don't want a different boss, we want a new boss and want to truly unleash the social equalizing and rich-making power of the truly free ("freed") market.
+Basically  we don't have to do a Marxist-Leninist style violent revolution that so many people are afraid of. We don't have to move towards socialism, communism, again that people are so afraid of. These are authoritarian regimes and failed because they replaced CEO with bureaucrat. We don't want a different boss, we want a new boss and want to truly unleash the social equalizing and rich-making power of the truly free ("freed") market. we could also frame socialism and capitalism as similar too in their authoritarianism; "State Socialism" and "State Capitalism"
         
 
 ### Part 4: The Solution – "The Ecosystem of Freedom"
 
-Lay out left-wing market anarchism basically and stuff like what benjamin tucker advocates. usury is illegitimate
+Lay out left-wing market anarchism basically (the freed market) and stuff like what benjamin tucker advocates. usury is illegitimate. true competition leads to the goals that socialists want like equality, but uses the mechanisms that are logically intuitive and philosophically libertarian, american individualist
 
 ### Part 5: The Roadmap – "How We Get There"
 
 agorism, dual power
-        
 
 ----------
 
