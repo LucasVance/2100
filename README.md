@@ -15,11 +15,11 @@ This project aims to be an accessible, non-academic entry point for anyone quest
 
 ## Contributor Style Guide
 
-**IMPORTANT:** To maintain a cohesive voice across the project, all contributions should adhere to the following rhetorical strategies. We aim to reach skeptics, not just the converted.
+**IMPORTANT:** To maintain a cohesive voice across the project, all contributions should adhere to the following rhetorical strategies. We aim to reach skeptics, not just the converted. 
 
 ### 1. The Rhetorical Strategy ("The Trojan Horse")
 
-We avoid academic jargon that alienates working-class readers. We use populist, accessible language to explain radical economic concepts.
+We avoid academic jargon that alienates working-class readers. We use populist, accessible language to explain radical economic concepts. Ensure we do not sound "anti-American." We are "Pro-American People, Anti-American Bureaucracy." We frame the State as the occupier of the American community.
 
 ### 2. The Core Logic (The Synthesis)
 
