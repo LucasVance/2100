@@ -5,7 +5,7 @@ site_description: "2100"
 theme:
   name: material
   palette: 
-    scheme: slate  # Dark mode by default
+    scheme: slate  # Dark mode default
     primary: teal
     accent: cyan
   features:
