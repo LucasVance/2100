@@ -19,7 +19,7 @@ This project aims to be an accessible, non-academic entry point for anyone quest
 
 ### 1. The Rhetorical Strategy ("The Trojan Horse")
 
-We avoid academic jargon that alienates working-class readers. We use populist, accessible language to explain radical economic concepts.
+We avoid academic jargon that alienates working-class readers. We use populist, accessible language to explain radical economic concepts, such as:
 | Avoid (Academic/Jargon)             | Use Instead (Accessible)               | Why?                                                                                      |
 |-------------------------------------|----------------------------------------|-------------------------------------------------------------------------------------------|
 | Imperialism                         | The War Machine / Interventionism      | Focuses on the cost to the taxpayer and the loss of life, rather than abstract theory.    |
@@ -28,7 +28,11 @@ We avoid academic jargon that alienates working-class readers. We use populist, 
 | Abolish the State                   | End the Bureaucracy / Decentralization | Focus on efficiency and local control rather than chaos.                                  |
 | Communism                           | The Commons / Open Source / Abundance  | Use modern examples like Linux or Wikipedia to explain non-market collaboration.          |
 
+There are many other such exapmles. Be on the lookout for them.
+
 ### 2. The Core Logic (The Synthesis)
+
+After full true deregulation there would be a mix of the free market but also some communist structures like Noam Chomsky would advocate for with anarcho-syndicalism. Because it looks to me that they're not contradictory and both would be valuable in different scenarios.
 
 We are reconciling two seemingly opposite views:
 
@@ -41,93 +45,45 @@ We are reconciling two seemingly opposite views:
 
 ### 3. The "Inoculation" Method (Prefire)
 
-Every major argument must include a **"Common Objections"** or **"Yeah, but..."** section.
+**"Common Objections"** or **"Yeah, but..."** sections must be included at many relevant points.
 
 -   We must anticipate the skeptic's objection and answer it immediately.
     
--   **Rule:** Never straw-man the opposition. Address the _strongest_ version of their argument (The Steel-Man).
+-   **Rule:** Steelman, never strawman the opposition.
     
 
 ----------
 
 ## Site Architecture & Content Outline
 
-### Part 1: The Diagnosis – "The Game is Rigged"
-
--   **Concept:** Capitalism is not a synonym for "commerce." It is a specific system of state interference that funnels wealth upward.
-    
--   **Key Arguments:**
-    
-    -   The "Parasite Tax" (Rent, Interest, Profit).
-        
-    -   The War Machine exists to open markets for corporations, not to protect freedom.
-        
-    -   Planned Obsolescence: Why products break on purpose.
+### Part 1: Capitalism is flawed.
+There are many problems of Capitalism. For example, it results in many things being way too shitty and expensive because of monopolies. Our tax dollars are funneled into the hands of the owning class, while millions of Americans starve in the richest country in the history of the world. Our tax dollars also kill children in the middle east, as our industrial military complex secures corporate interests in other countries, ruining them and exploiting foreign citizens so they can exploit American citizens. Noam Chomsky's books are great for this, especially Understanding Power.
         
 
 ### Part 2: The Definition – "We Don't Have a Free Market"
 
--   **Concept:** Corporations are legal fictions created by the State. Real markets punish inefficiency; our system bails it out.
-    
--   **Key Arguments:**
-    
-    -   **The Four Monopolies:**
-        
-        1.  **Patents (The Idea Monopoly):** Why life-saving medicine costs a fortune.
-            
-        2.  **Tariffs/Subsidies:** Corporate Welfare.
-            
-        3.  **Land:** The problem of absentee ownership.
-            
-        4.  **Money:** The Banking Cartel.
-            
--   **The "Prefire" Objection:** _"But without patents, we wouldn't have innovation!"_
-    
-    -   **Response:** Capitalism _encloses_ innovation. A free market would favor Open Source development, leading to faster, cheaper, and repairable technology.
+But it doesn't have to be like this. "You wouldn't have the iPhone if not for capitalism!" Incorrect; Capitalism didn't give you the iPhone, the free market did. Capitalism gave you the overpriced, restricted, un-repairable version of the iPhone.
+Corporations are legal fictions created by the State. Real markets punish inefficiency; our system bails it out. Benjamin Tucker's four monopolies.
         
 
 ### Part 3: The False Choice – "Why We Don't Want a New Boss"
 
--   **Concept:** Distinguishing "Libertarian Socialism" from "State Socialism."
-    
--   **Key Arguments:**
-    
-    -   Authoritarian regimes failed because they replaced the CEO with a Bureaucrat.
-        
-    -   We don't want the government to own the factory; we want the _workers_ to own the factory.
+Basically  we don't have to do a Marxist-Leninist style violent revolution that so many people are afraid of. We don't have to move towards socialism, communism, again that people are so afraid of. These are authoritarian regimes and failed because they replaced CEO with bureaucrat. We don't want a different boss, we want a new boss and want to truly unleash the social equalizing and rich-making power of the truly free ("freed") market.
         
 
 ### Part 4: The Solution – "The Ecosystem of Freedom"
 
--   **Concept:** Anarchism without Adjectives (Panarchy). Using the right tool for the job.
-    
--   **Key Arguments:**
-    
-    -   **Markets** for scarce goods (shoes, custom items).
-        
-    -   **The Commons** for abundant goods (software, water, ideas).
-        
-    -   **Syndicalism** for complex industry (factories, hospitals).
-        
--   **The Vision:** A society based on _contract and consent_, not _coercion and taxes_.
+Lay out left-wing market anarchism basically
     
 
 ### Part 5: The Roadmap – "How We Get There"
 
--   **Concept:** Dual Power. Building the new world in the shell of the old.
-    
--   **Actionable Steps:**
-    
-    -   **Phase 1:** Attack Privilege (End IP, End Bailouts) + Defend the Vulnerable (Keep Safety Nets).
-        
-    -   **Phase 2:** Build Alternatives (Co-ops, Mutual Aid, Crypto/Barter).
-        
-    -   **Phase 3:** The State withers away as it becomes irrelevant.
+still undecided on what this could be, but I think this is a good idea.
         
 
 ----------
 
-## Contribution Roadmap
+## Site layout ideas
 
 ### MVP (Minimum Viable Product)
 
@@ -145,18 +101,3 @@ Every major argument must include a **"Common Objections"** or **"Yeah, but..."*
 -   [ ] **The Quiz:** "Are you a Capitalist or a Market Anarchist?"
     
 -   [ ] **The Library:** Deep-dive section with source texts (Tucker, Carson, Chomsky, Ostrom).
-    
-
-----------
-
-## 📚 Recommended Reading (Source Material)
-
--   _State Socialism and Anarchism_ - Benjamin Tucker
-    
--   _Government in the Future_ - Noam Chomsky
-    
--   _The Iron Fist Behind the Invisible Hand_ - Kevin Carson
-    
--   _Governing the Commons_ - Elinor Ostrom
-    
--   _The Zero Marginal Cost Society_ - Jeremy Rifkin
