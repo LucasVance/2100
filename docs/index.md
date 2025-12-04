@@ -1,16 +1,39 @@
 # The game is rigged
 
-## You are being physically poisoned.
+1. You are being physically poisoned.
   
-  You have plastic in your brain, toxic chemicals in your blood. Our beautiful land is being irreversibly damaged. One of the most profitable advances of the tech Industry was figuring out how to hack your brain. Friends and family are more divided than ever through Manufactured culture disagremeents.
+  You have plastic in your brain, toxic chemicals in your blood.
   
-## You are being economically drained.
+  Our beautiful land is being irreversibly damaged.
   
-  You are vastly more economically productive than your grandparents, yet you own significantly less. Parasitic Industries steal most of the product of your labor. Goods you possess are designed to prematurely fail in order to keep you buying.
-
-## You have no political voice.
+  One of the most profitable advances of the tech Industry was figuring out how to hack your brain.
   
-  Your tax dollars go to bombing civilians and children in third-world countries in order to secure Corporate interests. The Corporate News Networks are propaganda to keep you in submission to the order of the State and the Corporation. Politicians are easily bought out by anyone that has the money to do it. Despite living in a "democracy," nobody's vote truly matters. Despite living in a "democracy," you throw away your Bill of Rights every time you go to work.
+  Friends and family are more divided than ever through Manufactured culture disagremeents.
+  
+2. You are being economically drained.
+  
+  You are vastly more economically productive than your grandparents, yet you own significantly less.
+  
+  Parasitic Industries steal most of the product of your labor.
+  
+  Things you buy are designed to prematurely fail in order to keep you buying.
+  
+  Basic necessities like food, housing, and medicine are artificially expensive and bad.
+  
+3. You have no voice.
+  
+  ??? note "Your tax dollars go to bombing civilians and children in third-world countries in order to secure Corporate interests."
+  testing testing 123
+  
+      ??? info "Yeah, but we do it for freedom and defense."
+  
+  The Corporate News Networks are propaganda to keep you in submission to the will of the State and the Corporation.
+  
+  Politicians are easily bought out by anyone that has the money to do it.
+  
+  Despite living in a "democracy," nobody's vote truly matters.
+  
+  Despite living in a "democracy," you throw away your Bill of Rights every time you go to work.
   
 
 How did this happen?
