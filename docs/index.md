@@ -1,20 +1,19 @@
-# 2100
+# The game is rigged
 
----
+## You are being physically poisoned.
+  
+  You have plastic in your brain, toxic chemicals in your blood. Our beautiful land is being irreversibly damaged. One of the most profitable advances of the tech Industry was figuring out how to hack your brain. Friends and family are more divided than ever through Manufactured culture disagremeents.
+  
+## You are being economically drained.
+  
+  You are vastly more economically productive than your grandparents, yet you own significantly less. Parasitic Industries steal most of the product of your labor. Goods you possess are designed to prematurely fail in order to keep you buying.
 
-## The Game is Rigged
+## You have no political voice.
+  
+  Your tax dollars go to bombing civilians and children in third-world countries in order to secure Corporate interests. The Corporate News Networks are propaganda to keep you in submission to the order of the State and the Corporation. Politicians are easily bought out by anyone that has the money to do it. Despite living in a "democracy," nobody's vote truly matters. Despite living in a "democracy," you throw away your Bill of Rights every time you go to work.
+  
 
-Capitalism is not a synonym for "commerce." It is a specific system of state interference that funnels wealth upward. We are paying a "Parasite Tax" on every hour we work.
-
-??? quote "Example objection"
-    **The Objection:**
-
-    **The Reality:**
-
-Our tax dollars are funneled into the hands of the owning class, while millions of Americans starve. The military-industrial complex secures corporate interests abroad, not your freedom at home.
-
-??? note "Example deep research"
-    Deep research output here
+How did this happen?
 
 ---
 
