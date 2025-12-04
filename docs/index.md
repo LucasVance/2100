@@ -22,13 +22,13 @@ Basic necessities like food, housing, and medicine are artificially expensive an
   
 ## You have no voice.
   
-??? abstract "Your tax dollars go to bombing civilians and children in third-world countries in order to secure Corporate interests."
+"Your tax dollars go to bombing civilians and children in third-world countries in order to secure Corporate interests.
+
+The Corporate News Networks are propaganda to keep you in submission to the will of the State and the Corporation.
   
-??? abstract The Corporate News Networks are propaganda to keep you in submission to the will of the State and the Corporation.
+Politicians are easily bought out by anyone that has the money to do it.
   
-??? abstract Politicians are easily bought out by anyone that has the money to do it.
-  
-??? abstract Despite living in a "democracy," nobody's vote truly matters.
+Despite living in a "democracy," nobody's vote truly matters.
 
 Despite living in a "democracy," you throw away your Bill of Rights every time you go to work.
 
