@@ -41,17 +41,13 @@ The truth is, the Corporation cannot survive in a free market.
 
 # Capitalism is not a free market
 
-Even in 1888, an American individualist by the name of Benjamin Tucker identified four monopolies that the State enforces to protect the Corporation from a free market: land, money, patents, and tariffs.
-
-Today, the State...
-
-The free market gave us the smart phone. Capitalism gave us the $1000, locked-down, proprietary iPhone.
-The free market gave us insulin for $4. Capitalism gave us $200 insulin.
-The free market gave us cheap, high-quality printers. Capitalism gave us locked ink cartridges that cost more than human blood.
-The free market gave us farmers that could repair their tractors. Capitalism gave us proprietary software that requires a dealer to "authorize" a repair.
-The free market gave us free exchange of scientific knowledge. Capitalism gave us tax-payer funded research behind paywalls of $40 per article.
-The free market gave us internet. Capitalism gave us ISP monopolies.
-The free market gave us banking to store and lend money. Capitalism gave us overdraft fees, where the people with the least money are charged the most money specifically for having no money
+The free market gave us the smart phone. Capitalism gave us the $1000, locked-down, proprietary iPhone.  
+The free market gave us insulin for $4. Capitalism gave us $200 insulin.  
+The free market gave us cheap, high-quality printers. Capitalism gave us locked ink cartridges that cost more than human blood.  
+The free market gave us farmers that could repair their tractors. Capitalism gave us proprietary software that requires a dealer to "authorize" a repair.  
+The free market gave us free exchange of scientific knowledge. Capitalism gave us tax-payer funded research behind paywalls of $40 per article.  
+The free market gave us internet. Capitalism gave us ISP monopolies.  
+The free market gave us banking to store and lend money. Capitalism gave us overdraft fees, where the people with the least money are charged the most money specifically for having no money  
 The free market gave us insurance, a way to have a safety net. Capitalism gave us the Parasitic Industry of health insurance, which leeches money from everyone and adds no economic value.
 
 Employees have to compete for jobs, but employers don't have to compete for laborers because...
