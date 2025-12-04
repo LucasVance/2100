@@ -11,9 +11,13 @@ theme:
   features:
     - navigation.expand # Keeps the sidebar useful if you add more pages later
     - toc.integrate     # Puts the Table of Contents on the left, keeping the reading flow clean
+    - content.footnote.tooltips
+    - content.tooltips
 
 markdown_extensions:
   - admonition
   - pymdownx.details   # <--- THIS IS THE MAGIC ACCORDION FEATURE
   - pymdownx.superfences
   - attr_list
+  - footnotes
+  - abbr
