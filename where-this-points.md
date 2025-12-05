@@ -136,11 +136,11 @@ Some examples of what counts here:
 
 None of these are pure. They all still live inside a world of state law, taxes, and corporate platforms. That’s fine. Purity is not the goal.
 
-The goal is to \*\*grow more places where:
+The goal is to grow more places where:
 
 -   people cooperate on their own terms,
 -   ownership and control line up more with actual work and use,
--   and the four monopolies have less bite.\*\*
+-   and the four monopolies have less bite.
 
 These kinds of projects also tend to support each other. Co-ops bank with credit unions, use free software, participate in mutual aid, and so on. Over time, that mesh of alternatives can matter a lot.
 
