@@ -3,21 +3,29 @@ site_url: https://yourusername.github.io/2100/
 site_description: "2100: Restoring the American Dream"
 
 theme:
-  name: material
-  palette: 
-    scheme: slate  # Dark mode default
-    primary: teal
-    accent: cyan
-  features:
-    - navigation.expand # Keeps the sidebar useful if you add more pages later
-    - toc.integrate     # Puts the Table of Contents on the left, keeping the reading flow clean
-    - content.footnote.tooltips
-    - content.tooltips
+    name: material
+    palette:
+        scheme: slate # Dark mode default
+        primary: teal
+        accent: cyan
+    features:
+        - navigation.expand # Keeps the sidebar useful if you add more pages later
+        - toc.integrate # Puts the Table of Contents on the left, keeping the reading flow clean
+        - content.footnote.tooltips
+        - content.tooltips
 
 markdown_extensions:
-  - admonition
-  - pymdownx.details   # <--- THIS IS THE MAGIC ACCORDION FEATURE
-  - pymdownx.superfences
-  - attr_list
-  - footnotes
-  - abbr
+    - admonition
+    - pymdownx.details # <--- THIS IS THE MAGIC ACCORDION FEATURE
+    - pymdownx.superfences
+    - attr_list
+    - footnotes
+    - abbr
+
+nav:
+    - Home: index.md
+    - State vs. Corporation: state-vs-corp.md
+    - Capitalism is not a free market: liberty.md
+    - The Freed Market: freed-market.md
+    - Expected objections and FAQ: objections.md
+    - Further reading: resources.md
