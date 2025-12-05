@@ -411,10 +411,7 @@ This page is for the big, recurring “yeah but what about…” worries:
 
 No FAQ can anticipate every “yeah but what about…” that a curious or skeptical person will have.
 
-**Ask your question here:**  
-_(https://gemini.google.com/gem/1viOF3nq9aiwiLWtjYqrSkha-Z15BV7gS?usp=sharing)_
-
-For example, you could ask:
+**Ask a different question here, such as**_(https://gemini.google.com/gem/1viOF3nq9aiwiLWtjYqrSkha-Z15BV7gS?usp=sharing)_
 
 -   “What happens if someone wants to build a nuclear plant in this system?”
 -   “How would structural engineering firms work without government inspectors?”
