@@ -24,8 +24,8 @@ markdown_extensions:
 
 nav:
     - Home: index.md
-    - "Part 1: State vs. Corporation": state-vs-corp.md
-    - "Part 2: Capitalism is not a free market": liberty.md
-    - "Part 3: The Freed Market": freed-market.md
+    - "Part 1 - State vs. Corporation": state-vs-corp.md
+    - "Part 2 - Capitalism is not a free market": liberty.md
+    - "Part 3 - The freed market": freed-market.md
     - Expected objections and FAQ: objections.md
     - Further reading: resources.md
