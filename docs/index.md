@@ -3,7 +3,7 @@
 Most of us were taught a simple picture of how society works:
 
 -   The State exists to keep the Corporation in check.
--   Corporations innovate and create wealth, while the State regulates excess.
+-   the Corporation innovate and create wealth, while the State regulates excess.
 -   Our “ideal system” is a balance between the two.
 
 If that story were true, you wouldn’t be working harder than ever while getting priced out of housing, healthcare, education, and stability.
@@ -55,19 +55,19 @@ You don’t have to read everything in order. But if you like a linear path, the
 
 ## The argument in three parts
 
-### Part I – The Story We’re Told: State vs. Corporations
+### Part 1: The State vs. the Corporation
 
 We start with the official narrative:
 
 -   Government and business are in tension.
--   Elections and regulations keep Corporations in check.
--   Corporations push back against “big government.”
+-   Elections and regulations keep the Corporation in check.
+-   The Corporation pushes back against “big government.”
 
 Then we compare that story to what actually happens:
 
 -   Bailouts for banks and large firms when they fail.
 -   Regulations that entrench incumbents and freeze out new competitors.
--   Intellectual property and licensing laws enforced by courts and police that give Corporations legal monopolies.
+-   Intellectual property and licensing laws enforced by courts and police that give the Corporation legal monopolies.
 -   Public money funding the research, infrastructure, and protection that private firms later monetize.
 
 By the end of this part, the goal is simple:
@@ -75,11 +75,11 @@ By the end of this part, the goal is simple:
 > Instead of seeing the State and big business as rivals in balance,
 > you see them as partners in a shared business model.
 
-The name for that model doesn’t really matter; “State capitalism,” “Corporate welfare,” or “State–Corporate complex” all point at the same pattern.
+The name for that model doesn’t really matter; “State capitalism,” “Corporatism,” or “State–Corporate complex” all point at the same pattern.
 
 ---
 
-### Part II – The Four Monopolies: How the Game Is Rigged
+### Part 2: Capitalism is not a free market
 
 Once you see the alliance, the next question is: what holds it together? Why doesn’t it just dissolve under competition?
 
@@ -105,7 +105,7 @@ The State doesn’t just “regulate” markets; it manufactures and protects th
 
 ---
 
-### Part III – Freed Markets: What Comes After Capitalism?
+### Part 3: The freed market
 
 If you remove or radically weaken those monopolies, what then?
 
