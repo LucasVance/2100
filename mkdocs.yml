@@ -4,19 +4,29 @@ site_description: "2100"
 
 theme:
   name: material
-  palette: 
+  palette:
     scheme: slate  # Dark mode default
     primary: teal
     accent: cyan
   features:
-    - navigation.expand # Keeps the sidebar useful if you add more pages later
-    - toc.integrate     # Puts the Table of Contents on the left, keeping the reading flow clean
+    - navigation.expand
+    - toc.integrate
     - content.footnote.tooltips
     - content.tooltips
 
+nav:
+  - Home: index.md
+  - The Rigged Game: rigged-game.md
+  - The Freed Market: freed-market.md
+  - Beyond the False Choice: false-choice.md
+  - Roadmap: roadmap.md
+  - Objections & Receipts: objections.md
+  - Dictionary of Deception: glossary.md
+  - Library & Further Action: resources.md
+
 markdown_extensions:
   - admonition
-  - pymdownx.details   # <--- THIS IS THE MAGIC ACCORDION FEATURE
+  - pymdownx.details
   - pymdownx.superfences
   - attr_list
   - footnotes
