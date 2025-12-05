@@ -10,10 +10,7 @@ This page is for the big, recurring “yeah but what about…” worries:
 -   public goods and safety
 -   power and abuse
 -   labels (“isn’t this just communism / anarcho-capitalism?”)
--   transition and realism
--   and, very specifically: **what happens to welfare?**
-
-If your question isn’t here, there’s an “Ask your own question” section at the bottom.
+-   transition and realism.
 
 ---
 
@@ -349,10 +346,6 @@ If your question isn’t here, there’s an “Ask your own question” section 
     None of that guarantees “victory.” But it changes what you’re cooperating with,
     and that’s not nothing.
 
----
-
-## What happens to welfare? (The Tucker–Chomsky synthesis)
-
 ??? question "If you want to shrink the state, what happens to welfare, public services, and protections?"
 
     This is the place where a lot of anarchist / libertarian talk turns ugly fast, so
@@ -416,17 +409,10 @@ If your question isn’t here, there’s an “Ask your own question” section 
 
 ## Ask your own question
 
-No FAQ can anticipate every “yeah but what about…” that a curious or skeptical person
-will have.
+No FAQ can anticipate every “yeah but what about…” that a curious or skeptical person will have.
 
-I set up a separate Q&A bot (using Gemini) that’s tuned to this project:
-
--   It knows the content of these pages.
--   It’s nudged to explain things in plain language.
--   It’s there so you can ask very specific questions I didn’t think to cover.
-
-👉 **Ask your question here:**  
-_(Replace this with your actual embed or link.)_
+**Ask your question here:**  
+_(https://gemini.google.com/gem/1viOF3nq9aiwiLWtjYqrSkha-Z15BV7gS?usp=sharing)_
 
 For example, you could ask:
 
@@ -434,6 +420,3 @@ For example, you could ask:
 -   “How would structural engineering firms work without government inspectors?”
 -   “What about climate change and global coordination?”
 -   “What if a co-op turns into a new hierarchy — what checks exist then?”
-
-Use it as a conversation partner. And if it surfaces a question or objection this
-page really should cover, that’s feedback I’d love to hear.
