@@ -1,4 +1,4 @@
-# Socialist Ends Through Market Means: An Intellectual History
+# Socialist Ends Through Market Means: A History
 
 ## Introduction: Bridging Socialism and Markets
 
