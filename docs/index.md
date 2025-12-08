@@ -1,6 +1,6 @@
 # 2100: Restoring the American Dream
 
-> This site is a work-in-progress. Many of the claims need to be substantiated further. However, the core logic is all here; until completion, it does represent a good picture of an exposition
+> This site is a work-in-progress. Many of the claims need to be substantiated further. However, the core logic is all here; until completion, it does represent an okay exposition of the subject matter.
 
 Most of us were taught a simple picture of how society works:
 
