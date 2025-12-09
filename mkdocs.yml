@@ -4,6 +4,8 @@ site_description: "2100: Restoring the American Dream"
 
 theme:
     name: material
+    palette:
+        scheme: slate
     features:
         - navigation.expand # Keeps the sidebar useful if you add more pages later
         - toc.integrate # Puts the Table of Contents on the left, keeping the reading flow clean
