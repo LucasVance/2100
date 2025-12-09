@@ -27,7 +27,7 @@ If that picture were true, we would expect to see:
 -   big firms regularly fighting against special favors, subsidies, and bailouts on principled free-market grounds (“no special treatment for anyone”);
 -   and most importantly, an economy where your living standards track your productivity reasonably well.
 
-[That’s not the world we live in.](/bailouts)
+[That’s not the world we live in.](bailouts)
 
 ---
 
