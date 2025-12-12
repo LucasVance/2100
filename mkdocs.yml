@@ -7,14 +7,13 @@ theme:
     palette:
         scheme: slate
     features:
-        - navigation.expand # Keeps the sidebar useful if you add more pages later
         - toc.integrate # Puts the Table of Contents on the left, keeping the reading flow clean
         - content.footnote.tooltips
         - content.tooltips
 
 markdown_extensions:
     - admonition
-    - pymdownx.details # <--- THIS IS THE MAGIC ACCORDION FEATURE
+    - pymdownx.details
     - pymdownx.superfences
     - attr_list
     - footnotes
@@ -22,14 +21,14 @@ markdown_extensions:
 
 nav:
     - Home: index.md
-    - "Part 1 - State vs. Corporation": state-vs-corp.md
-    - "Part 2 - Capitalism is not a free market": liberty.md
-    - "Part 3 - The freed market": freed-market.md
-    - "Part 4 - Where this points": where-this-points.md
+    - "Part 1: State vs. Corporation": state-vs-corp.md
+    - "Part 2: Capitalism is not a free market": liberty.md
+    - "Part 3: The freed market": freed-market.md
     - More:
-        - "My guess at a future": guess.md
-        - Expected objections and FAQ: objections.md
-        - Resources: resources.md
-        - Intellectual history: history.md
-        - Bailout history: bailouts.md
-        - The Constitution was a coup: coup.md
+          - Expected objections and FAQ: more/objections.md
+          - My guess at a future: more/guess.md
+          - Resources: more/resources.md
+          - Intellectual history: more/history.md
+          - Bailout history: more/bailouts.md
+          - The Constitution was a coup: more/coup.md
+          - Where this points: more/where-this-points.md
