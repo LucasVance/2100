@@ -31,9 +31,6 @@ If it’s not a free market, what is it? Here we detail the **Four Monopolies** 
 ### [Part 3: The Freed Market](freed-market.md)
 What happens if we abolished those privileges, if we stripped away the state protections that enforce rent, usury, and intellectual property? It's not the continuation of the trend towards technofeudalism by unrestrained capitalism that we see today. While avoiding utopian promises, there are genuine reasons to suggest that such a world would be life-focused and egalitarian (ideals of the Left) and even more rich, with stronger economic efficiency and technological innovation (ideals of the Right).
 
-### [Part 4: Where this points](where-this-points.md)
-This project is not a manifesto for a new political party. It is a framework for understanding the world. This section explores how we move from understanding the rig to building counter-institutions (co-ops, mutual aid, open source) that challenge it and begin the foundation for a better world.
-
 ---
 
 ## Who is this project for?
