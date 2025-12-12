@@ -12,21 +12,21 @@ If you read one book, make it this one. It is a collection of essays that lays o
 
 ### Misunderstandings and objections
 
-??? question Network effects and economies of scale are real; there's absolutely no way you can tell me that big businesses are less efficient than small ones!
+??? question "Network effects and economies of scale are real; there's absolutely no way you can tell me that big businesses are less efficient than small ones!"
     answer here
 
-??? question If markets naturally favor efficiency of small businesses, why is the entire world dominated by hierarchical corporations? Why haven't co-ops outcompeted them yet?
+??? question "If markets naturally favor efficiency of small businesses, why is the entire world dominated by hierarchical corporations? Why haven't co-ops outcompeted them yet?"
     answer here
 
-??? question Without a state, who builds the roads and infrastructure? How do you handle large-scale coordination for things like highways, power grids, or disaster response if everything is decentralized?
+??? question "Without a state, who builds the roads and infrastructure? How do you handle large-scale coordination for things like highways, power grids, or disaster response if everything is decentralized?"
     answer here
 
-??? question Without state regulation, what stops someone from dumping toxic waste in a river, starting a nuclear plant in their backyard, or spreading a pandemic?
+??? question "Without state regulation, what stops someone from dumping toxic waste in a river, starting a nuclear plant in their backyard, or spreading a pandemic?"
     answer here
 
-??? question Even without state favors, won't people with more talent, luck, or initial resources just accumulate massive wealth and recreate the same inequality we have now?
+??? question "Even without state favors, won't people with more talent, luck, or initial resources just accumulate massive wealth and recreate the same inequality we have now?"
     answer here
 
-??? question Isn't this just anarcho-capitalism?
+??? question "Isn't this just anarcho-capitalism?"
     answer here
 
