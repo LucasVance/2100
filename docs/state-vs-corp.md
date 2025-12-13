@@ -1,8 +1,3 @@
----
-title: "Part 1: State vs. Corporation"
-nav_order: 2
----
-
 If you grew up in the United States, you were probably taught a very simple story about how our economy works.
 
 On one side are corporations and “the market”: dynamic, innovative, profit-seeking. On the other side is the state: cautious, regulatory, sometimes clumsy, but necessary to keep corporations from going too far. The ideal, we’re told, is a balance between the two. Too much government and you get Soviet bread lines; too much corporate power and you get robber barons and child labor. Somewhere in the middle lies “mixed economy” capitalism, the best of both worlds.

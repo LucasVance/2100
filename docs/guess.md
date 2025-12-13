@@ -1,9 +1,3 @@
----
-title: My guess at a future
-parent: More
-permalink: /guess/
----
-
 _This page is different from the rest of the site._
 
 Parts 1–3 are me doing my best to describe how the present system works and what freed markets might look like in a grounded way.

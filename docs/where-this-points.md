@@ -1,9 +1,3 @@
----
-title: Where this points
-parent: More
-permalink: /where-this-points/
----
-
 By now, you’ve probably noticed something:
 
 This project does not end with a 27-point program or a “Ten-Year Plan to Abolish the State–Corporate Complex™”.
