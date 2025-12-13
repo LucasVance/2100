@@ -26,3 +26,6 @@ The free market gave us internet. Capitalism gave us ISP monopolies.
 The free market gave us banking to store and lend money. Capitalism gave us overdraft fees, where the people with the least money are charged the most money specifically for having no money  
 The free market gave us insurance, a way to have a safety net. Capitalism gave us the Parasitic Industry of health insurance, which leeches money from everyone and adds no economic value.
 These are just some examples. Some are more impactful than others and there are so many more. I'm not even joking when I saw that almost everything good in the American's life comes from the free market, and almost everything bad in the American's life comes from capitalism. It sounds like too much of a generalization but I've spent a lot of time thinking about it and it's startingly consistent.
+
+Future ideas:
+* parasite calculator: shows how much of your value goes to parasites. put it in dollars so it's relatable
