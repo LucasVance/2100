@@ -1,3 +1,8 @@
+---
+title: "Part 2: Capitalism is not a free market"
+nav_order: 3
+---
+
 In Part 1, we looked at the state–corporate complex: the way government and big business act less like rivals in balance and more like partners in a joint venture. This part is about the mechanics of that partnership.
 
 A 19th-century anarchist, Benjamin Tucker, tried to answer a very specific question:

@@ -1,3 +1,9 @@
+---
+title: Intellectual history
+parent: More
+permalink: /history/
+---
+
 # Socialist Ends Through Market Means: A History
 
 ## Introduction: Bridging Socialism and Markets

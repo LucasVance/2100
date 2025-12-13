@@ -1,3 +1,9 @@
+---
+layout: home
+title: Home
+nav_order: 1
+---
+
 # 2100: Socialist Ends through Market Means
 
 **Most of us were taught a simple picture of how the economy works:**

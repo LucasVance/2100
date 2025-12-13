@@ -1,3 +1,9 @@
+---
+title: The Constitution was a coup
+parent: More
+permalink: /coup/
+---
+
 # The Constitution was a Coup: A Revisionist History of the American Counter-Revolution
 
 ## Part I: The Historiographical Battleground

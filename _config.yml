@@ -1,0 +1,24 @@
+title: 2100
+description: 2100
+remote_theme: just-the-docs/just-the-docs
+url: https://lucasvance.github.io/2100/
+baseurl: "/2100"
+
+color_scheme: slate
+
+enable_anchor_links: true
+
+# Enable foldables for expanding nav
+callouts:
+  warning:
+    title: Warning
+    color: red
+  important:
+    title: Important
+    color: blue
+  tip:
+    title: Tip
+    color: green
+  note:
+    title: Note
+    color: purple

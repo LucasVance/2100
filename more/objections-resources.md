@@ -1,3 +1,9 @@
+---
+title: Objections and resources
+parent: More
+permalink: /objections/
+---
+
 If you made it this far, you probably have a lot of questions. That is good. The ideas here—that capitalism is a state-corporate monopoly system and that a genuinely free market would be radically different—are dense and often counter-intuitive because they challenge deep-seated assumptions.
 
 I am also steeped in these assumptions, and it was total serendipity that I stumbled across these ideas. Because I am still discovering these details myself, I want to heavily push you towards resources much more knowledgeable than me. I am confident that almost everyone who seriously engages with these ideas with meaningful intellectual curiosity will be forced to reevaluate their worldview to a large extent.

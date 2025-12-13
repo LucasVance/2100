@@ -1,3 +1,9 @@
+---
+title: Bailout history
+parent: More
+permalink: /bailouts/
+---
+
 # Government Intervention Entrenching Corporate Power: Historical and Contemporary Evidence
 
 ## Introduction: State Power as a Protective Alliance for Big Business  

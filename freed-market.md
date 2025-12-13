@@ -1,3 +1,8 @@
+---
+title: "Part 3: The freed market"
+nav_order: 4
+---
+
 Up to now, we’ve mostly been diagnosing:
 
 -   Part 1: The “state vs corporations” story is a myth. In reality we live under a state–corporate complex.
