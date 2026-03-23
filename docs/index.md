@@ -8,7 +8,7 @@
 
 What if the State and the Corporation are not rivals, but partners? What if the massive inequality, environmental destruction, and precarious labor we see today are not the result of "free markets," but the result of a **State–Corporate complex** designed to concentrate wealth?
 
-And most importantly and radically: _What if the best way to achieve the egalitarian goals of the Left is to unleash a genuinely freed market against the privileges of the Epstein class?_
+And most importantly and radically: _What if the best way to achieve the egalitarian goals of the Left is to unleash a genuinely freed market against the privileges of the ruling class?_
 
 ---
 
